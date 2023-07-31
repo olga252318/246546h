@@ -13,7 +13,4 @@ b=-2
 
 # print(f(a,b))
 
-def f (a, b): #(мое решение)
-    c = a**b
-    return c
-print(f(a,b))
+
